@@ -1,4 +1,4 @@
-![hot face](https://github.com/HaNerW10/EmojiOne-New-2.2.5ge/assets/162458040/0b977e52-e9f5-42b0-8513-2b934ca562a0)![hot face](https://github.com/HaNerW10/EmojiOne-New-2.2.5ge/assets/162458040/8d4cef73-da70-47d6-b081-161269c11de9)# Emoji One 2.2.5 Glyph Emojis
+# Emoji One 2.2.5 Glyph Emojis
 Welcome to EmojiOne 2.2.5 ge!
 The versions are supported down here.
 # U10
